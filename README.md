@@ -14,7 +14,7 @@ The purpose of this project was to determine the number of employees that may be
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The company should prepare to replace the following job titles:
 
-![]("resources/unique_titles.png")
+![](resources/unique_titles.png)
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are 1,549 employees that qualify for the mentorship program.  If these employees are to be mentored by the retiring class of employees, the ratio is very favorable and there will certainly be enough retirees to mentor the up-and-coming staff.  
